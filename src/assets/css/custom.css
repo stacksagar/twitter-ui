@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
+
+* {
+  margin: 0px;
+  transition: all 0.3s;
+  font-family: Ubuntu, Operator Mono ; 
+  transition: all 0.5s;
+}
+.font-arial {
+  font-family: arial black !important;
+}
+a {color:blueviolet; transition:all 1s;}
+a:hover {text-decoration: underline; transition:all 1s;}
+a.noUnderline:hover {text-decoration: unset !important;}
+button{
+  transition: none !important;
+}
+/* Default Scroll Hide  */
+html {
+  scrollbar-color: #11111199 transparent !important;
+  scrollbar-width: thin !important;
+}
+
+::-webkit-scrollbar {
+  width: 8px !important;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent !important;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: #11111199 !important;
+}
+
+div {
+  scrollbar-color: transparent transparent !important;
+  scrollbar-width: thin !important;
+}
+div:hover {
+  scrollbar-color: #11111199 transparent !important;
+  scrollbar-width: thin !important;
+}
+
+div::-webkit-scrollbar {
+  width: 8px !important;
+}
+
+div::-webkit-scrollbar-track {
+  background: transparent !important;
+}
+
+div::-webkit-scrollbar-thumb {
+  background: transparent !important;
+  border-radius: 10px;
+}
+div:hover::-webkit-scrollbar-thumb {
+  background: #11111199 !important;
+}
+/* Default Scroll Hide  */
+
+/*! Start css code write from here */
+ 
+.twitter-container {
+  width:1080px;
+  display:flex;
+  margin:auto;
+  overflow: hidden !important;
+}
+
+.mb-05 {
+  margin-bottom:1px;
+}
+.p-05 {
+  padding-top:1.1px;
+  padding-bottom:1.1px;
+}
+.py-05 {
+  padding-top:0.5px;
+  padding-bottom:1px;
+}
+
+ 
+@media (max-width:1060px) {
+  .none-for-md {
+    display: none !important;
+  }
+}
+@media (max-width:725px) {
+  .none-sm{
+    display: none !important;
+  }
+  
+.twitter-container {
+  width:100%;
+}
+
+  .full-sm {
+    max-width:100% !important;
+  } 
+}
