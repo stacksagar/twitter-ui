@@ -299,7 +299,7 @@ const App = () => {
             />
           </div>
 
-          <div className="w-full rounded-lg overflow-hidden -mt-10 font-bold font-sans h-80 bg-gray-200">
+          <div className="w-full rounded-lg overflow-hidden -mt-10 font-bold font-sans h-80 bg-gray-100">
             <h1 className="text-lg p-4">You might like</h1>
 
             <div>
@@ -316,7 +316,7 @@ const App = () => {
                   </a>
                   <div className="flex flex-col">
                     <a className="font-bold flex items-center text-xl" href="https://twitter.com/ThePSF">
-                      <span className="truncate">Python S...</span>
+                      <span className="truncate text-sm">Python S...</span>
                       <svg
                         viewBox="0 0 24 24"
                         aria-label="Verified account"
@@ -348,7 +348,7 @@ const App = () => {
                   </a>
                   <div className="flex flex-col">
                     <a className="font-bold flex items-center text-xl" href="https://twitter.com/reactjs">
-                      <span className="truncate">React</span>
+                      <span className="truncate text-sm">React</span>
                       <svg
                         viewBox="0 0 24 24"
                         aria-label="Verified account"
@@ -380,7 +380,7 @@ const App = () => {
                   </a>
                   <div className="flex flex-col">
                     <a className="font-bold flex items-center text-xl" href="https://twitter.com/nodejs">
-                      <span className="truncate">Node.js</span>
+                      <span className="truncate text-sm">Node.js</span>
                       <svg
                         viewBox="0 0 24 24"
                         aria-label="Verified account"
