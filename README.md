@@ -15,7 +15,7 @@
   <h3 align="center"><a href="https://stacksagar.github.io/twitter-ui"> Twitter UI Clone with ( React.js & Tailwindcss )</a></h3>
 
 <a href="https://stacksagar.github.io/twitter-ui">
- <img src="" alt="clone-by-stacksagar" border="0">
+ <img src="https://i.ibb.co/0Zk2CM0/Twitter-ui-clone-with-reactjs-tailwindcss.png" alt="clone-by-stacksagar" border="0">
 </a>
 
 <!-- HOW TO RUN -->
