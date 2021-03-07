@@ -12,9 +12,9 @@
 
 <!-- PROJECT LOGO -->
 <br /> 
-  <h3 align="center"><a href="https://stacksagar.github.io/twitter-clone"> Twitter UI Clone with ( React.js & Tailwindcss )</a></h3>
+  <h3 align="center"><a href="https://stacksagar.github.io/twitter-ui"> Twitter UI Clone with ( React.js & Tailwindcss )</a></h3>
 
-<a href="https://stacksagar.github.io/twitter-clone">
+<a href="https://stacksagar.github.io/twitter-ui">
  <img src="" alt="clone-by-stacksagar" border="0">
 </a>
 
@@ -28,11 +28,11 @@ Please follow the below instructions to run this project in your machine:
 
 1. Clone this repository
    ```sh
-   git clone https://github.com/stacksagar/twitter-clone.git
+   git clone https://github.com/stacksagar/twitter-ui.git
    ```
 2. Go into cloned directory
    ```sh
-   cd twitter-clone
+   cd twitter-ui
    ```
 3. Install dev dependencies
    ```sh

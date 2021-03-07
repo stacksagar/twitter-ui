@@ -1,6 +1,6 @@
 {
-  "homepage": "http://stacksagar.github.io/twitter-clone",
-  "name": "twitter-clone",
+  "homepage": "http://stacksagar.github.io/twitter-ui",
+  "name": "twitter-ui",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
